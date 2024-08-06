@@ -389,7 +389,9 @@ def creeare_departament(sistem):
     elif ok_proiect == 0:
         print("Proiectul respectiv nu exista! Departamentul nu a putut fi creat.")
 
+
 sistem = Sistem()
+pass
 
 while True:
     sistem.utilizator = input("Buna ziua! Sunteti Angajat sau Manager: ")
